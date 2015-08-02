@@ -6,4 +6,10 @@
 
 3. Others (Items that will be used to soldier and glue pieces together) 130
 
- 
+4. 2 processor fans/ 3 Amp 12 V.
+
+5. External power supply 10A/12V
+
+6. connectors for the fans
+
+7. USB, audio connectors.
